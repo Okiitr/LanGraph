@@ -1,4 +1,4 @@
-# LanGraph
+# LangGraph
 
 #### 1. Set Up Virtual Environment with uv
 
