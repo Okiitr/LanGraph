@@ -1,5 +1,6 @@
 langgraph
 langchain
+langchain-text-splitters 
 ipython
 langchain_openai
 langchain_community
@@ -8,3 +9,4 @@ typing
 chromadb
 langchain_chroma
 uv
+pypdf
